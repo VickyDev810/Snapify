@@ -1,7 +1,3 @@
-Got it! Here's a customized README for **Snapify** based on your description:
-
----
-
 # Snapify 📸🎵  
 Snapify is a creative app that combines image captioning, emotion analysis, and music recommendation. Users upload photos, and Snapify curates personalized Spotify playlists based on the emotions detected in the image.  
 
